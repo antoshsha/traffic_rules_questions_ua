@@ -1,4 +1,4 @@
-# traffic_rules_questions_ua
+# Application of RAG for traffic rules data
 
 You can find the dataset in the `prompts` directory. It was collected from [this](https://pdr.infotech.gov.ua/tests/themes) website. It contains the questions for Ukrainian traffic rules test divided in json files by topics. The number of file corresponds to the number of the section in Ukrainian traffic rules. This dataset was created specifically for evaluation of RAG system, so all of the questions can be answered without reference images.
 
