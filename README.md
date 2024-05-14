@@ -6,3 +6,5 @@ In the `traffic rules` directory you can find markdown files with Ukrainian traf
 
 In the file `full_traffic_rules.md` you can find the full cleaned text of Ukrainian traffic rules.
 The text of traffic rules was taken from [here](https://zakon.rada.gov.ua/laws/show/1306-2001-п#Text).
+
+The traffic rules were authored by the Cabinet of Ministers of Ukraine.
